@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=4000&pause=2000&color=A020F0&lines=Hello!+👋+I'm+Faizan+Mansuri;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=4000&pause=2000&color=00BFA6&lines=Hello!+👋+I'm+Faizan+Mansuri;" />
 </h1>
 
 <h3 align="center">🚀 DevOps & Cloud Enthusiast | AWS | Terraform | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=650&color=A020F0&lines=Aspiring+Cloud+%26+DevOps+Engineer+☁️;AWS+%7C+Terraform+%7C+Docker;Automation+%7C+CI%2FCD+%7C+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=650&color=00BFA6&lines=Aspiring+Cloud+%26+DevOps+Engineer+☁️;AWS+%7C+Terraform+%7C+Docker;Automation+%7C+CI%2FCD+%7C+Linux" alt="Typing SVG" />
 </p>
 
 ---
