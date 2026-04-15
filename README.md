@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/faizanahmed-mansuri-626a5221b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://github.com/faizanmansuri" target="_blank">
+  <a href="https://github.com/faizanmansuri77" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
      width="45px"
      style="background-color:white; padding:6px; border-radius:6px;" />
