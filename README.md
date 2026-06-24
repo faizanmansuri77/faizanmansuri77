@@ -13,19 +13,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:faizanahmedmansuri@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/faizanmansuri77" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin,gmail,github" />
 </a>
 
 <br><br>
@@ -131,8 +119,7 @@ Philosophy: "Don't just automate deployments — automate confidence."
 
 Production-grade 3-tier microservices architecture deployed on AWS EKS with complete CI/CD automation, GitOps workflow, monitoring, and scalable Kubernetes deployments.
 
-🔗 https://github.com/faizanmansuri77/Taskflow-3-Tier-Application
-
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/Taskflow-3-Tier-Application)
 ---
 
 ## 🤖 Ollama AI Model Deployment
@@ -141,7 +128,16 @@ Production-grade 3-tier microservices architecture deployed on AWS EKS with comp
 
 Containerized AI model deployment platform with automated provisioning, monitoring, persistent storage, and infrastructure automation.
 
-🔗 https://github.com/faizanmansuri77/Ollama-AI-Model-Deployment
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/Ollama-AI-Model-Deployment)
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=faizanmansuri77&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
