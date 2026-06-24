@@ -76,7 +76,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [ShopEasy – End-to-End DevOps Pipeline](https://github.com/faizanmansuri77/Taskflow-3-Tier-Application)
+### 🛒 [Taskflow-3-Tier-Application](https://github.com/faizanmansuri77/Taskflow-3-Tier-Application)
 > `AWS` `EKS` `Jenkins` `ArgoCD` `Helm` `Docker` `CloudWatch`
 
 Production-grade 3-tier microservices app on AWS with a full GitOps pipeline, blue/green deployments, HPA, and CloudWatch observability — targeting 99.9% uptime.
