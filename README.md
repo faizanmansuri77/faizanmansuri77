@@ -12,16 +12,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:faizanahmedmansuri@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/faizanmansuri77" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
+<a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin,gmail,github" />
+</a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=faizanmansuri77&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 
 </div>
----
 
 # ⚡ About Me
 
