@@ -10,8 +10,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=850&color=00BFA6&lines=2.8%2B+Years+Building+Cloud+Infrastructure+☁️;AWS+%7C+EKS+%7C+Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;Datadog+%7C+CloudWatch+%7C+Prometheus+%7C+Grafana;Building+Scalable+and+Reliable+Systems+🚀" />
 
-<br/><br/>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/" target="_blank">
