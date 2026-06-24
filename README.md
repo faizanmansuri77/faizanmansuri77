@@ -8,23 +8,25 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=800&color=00BFA6&lines=2.8%2B+Years+Building+Cloud+Infrastructure+☁️;AWS+%7C+EKS+%7C+Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;Datadog+%7C+CloudWatch+%7C+Prometheus+%7C+Grafana;Building+Scalable+and+Reliable+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=850&color=00BFA6&lines=2.8%2B+Years+Building+Cloud+Infrastructure+☁️;AWS+%7C+EKS+%7C+Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;Datadog+%7C+CloudWatch+%7C+Prometheus+%7C+Grafana;Building+Scalable+and+Reliable+Systems+🚀" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Faizan_Mansuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:faizanahmedmansuri@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-faizanahmedmansuri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/faizanmansuri77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/faizanmansuri77" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-faizanmansuri77-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=faizanmansuri77&style=for-the-badge&color=58A6FF&label=Profile+Views"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=faizanmansuri77&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 
 </div>
 
@@ -67,7 +69,7 @@ Philosophy: "Don't just automate deployments — automate confidence."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,github,linux,bash,python"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,github,linux,bash,python" />
 
 </div>
 
@@ -77,51 +79,51 @@ Philosophy: "Don't just automate deployments — automate confidence."
 
 ## ☁️ Cloud Services
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge)
 ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ## 🚀 DevOps & CI/CD
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🐳 Containers & Kubernetes
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ## 📊 Monitoring & Observability
 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge\&logo=datadog\&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 # 🏗️ What I Build
 
-| Domain                     | Expertise                                                          |
-| -------------------------- | ------------------------------------------------------------------ |
-| ☁️ Cloud Infrastructure    | AWS, EKS, EC2, VPC, ALB, S3, Route53, CloudFront                   |
+| Domain | Expertise |
+|----------|----------|
+| ☁️ Cloud Infrastructure | AWS, EKS, EC2, VPC, ALB, S3, Route53, CloudFront |
 | 🛠️ Infrastructure as Code | Terraform Modules, Automated Provisioning, Reusable Infrastructure |
-| 🚀 CI/CD Automation        | Jenkins Pipelines, GitHub Actions, GitOps, ArgoCD                  |
-| 🐳 Container Platforms     | Docker, Kubernetes, Helm, Microservices Deployment                 |
-| 📊 Monitoring              | Datadog, CloudWatch, Prometheus, Grafana                           |
-| 🔐 Security                | IAM, Secrets Manager, KMS, CloudTrail, Trivy, SonarQube            |
-| 🖥️ Linux Operations       | Server Administration, Troubleshooting, Performance Tuning         |
+| 🚀 CI/CD Automation | Jenkins Pipelines, GitHub Actions, GitOps, ArgoCD |
+| 🐳 Container Platforms | Docker, Kubernetes, Helm, Microservices Deployment |
+| 📊 Monitoring | Datadog, CloudWatch, Prometheus, Grafana |
+| 🔐 Security | IAM, Secrets Manager, KMS, CloudTrail, Trivy, SonarQube |
+| 🖥️ Linux Operations | Server Administration, Troubleshooting, Performance Tuning |
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛒 Taskflow 3-Tier Application
+## 🛒 Taskflow 3-Tier Application
 
 **Tech Stack:** AWS • EKS • Jenkins • Docker • Helm • ArgoCD • CloudWatch
 
@@ -131,7 +133,7 @@ Production-grade 3-tier microservices architecture deployed on AWS EKS with comp
 
 ---
 
-### 🤖 Ollama AI Model Deployment
+## 🤖 Ollama AI Model Deployment
 
 **Tech Stack:** Docker • Linux • Bash • CloudWatch
 
@@ -178,13 +180,13 @@ Containerized AI model deployment platform with automated provisioning, monitori
 
 <div align="center">
 
-💼 LinkedIn
-[www.linkedin.com/in/faizan-mansuri-626a5221b/](http://www.linkedin.com/in/faizan-mansuri-626a5221b/)
+💼 LinkedIn  
+https://www.linkedin.com/in/faizan-mansuri-626a5221b/
 
-📧 Email
-[faizanahmedmansuri@gmail.com](mailto:faizanahmedmansuri@gmail.com)
+📧 Email  
+faizanahmedmansuri@gmail.com
 
-🐙 GitHub
+🐙 GitHub  
 https://github.com/faizanmansuri77
 
 </div>
