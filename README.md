@@ -12,16 +12,22 @@
 
 <br/><br/>
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/faizan-mansuri-626a5221b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Faizan_Mansuri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:faizanahmedmansuri@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-faizanahmedmansuri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/faizanmansuri77" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-faizanmansuri77-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 <br><br>
