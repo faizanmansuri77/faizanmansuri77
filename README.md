@@ -29,7 +29,7 @@ Name: Faizan Mansuri
 
 Role: DevOps Engineer
 
-Company: Unizen Technologies
+Company:INTECHFY SOLUTIONS
 
 Experience: 3+ Years
 
