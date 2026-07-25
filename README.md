@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Faizan%20Mansuri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20·%20AWS%20Cloud%20Specialist%20·%20Infrastructure%20Automation&descAlignY=58&descSize=18&descColor=93C5FD"/>
 
+<p align="center">
+<a href="https://faizanmansuri77.github.io/faizanmansuri77-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20My-Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=4000&pause=2000&color=00BFA6&lines=Hey!+👋+I'm+Faizan+Mansuri;" />
@@ -176,19 +182,29 @@ Containerized AI model deployment platform with automated provisioning, monitori
 
 # 🌐 Connect With Me
 
+# 🌐 Connect With Me
+
 <div align="center">
 
-💼 LinkedIn  
+🌐 **Portfolio**  
+https://faizanmansuri77.github.io/faizanmansuri77-portfolio/
+
+<br>
+
+💼 **LinkedIn**  
 https://www.linkedin.com/in/faizan-mansuri-626a5221b/
 
-📧 Email  
+<br>
+
+📧 **Email**  
 faizanahmedmansuri@gmail.com
 
-🐙 GitHub  
+<br>
+
+🐙 **GitHub**  
 https://github.com/faizanmansuri77
 
 </div>
-
 ---
 
 # 💬 DevOps Philosophy
