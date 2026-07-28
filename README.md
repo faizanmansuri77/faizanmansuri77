@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Faizan%20Mansuri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20·%20AWS%20Cloud%20Specialist%20·%20Infrastructure%20Automation&descAlignY=58&descSize=18&descColor=93C5FD"/>
 
@@ -10,11 +10,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=4000&pause=2000&color=00BFA6&lines=Hey!+👋+I'm+Faizan+Mansuri;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=900&height=70&duration=3000&pause=1200&color=00BFA6&lines=Hey!+%F0%9F%91%8B+I'm+Faizan+Mansuri;DevOps+Engineer+%7C+AWS+Cloud+Specialist;Building+Infrastructure+That+Doesn't+Wake+You+Up+At+3AM" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=850&color=00BFA6&lines=3+%2B+Years+Building+Cloud+Infrastructure+☁️;AWS+%7C+EKS+%7C+Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;Datadog+%7C+CloudWatch+%7C+Prometheus+%7C+Grafana;Building+Scalable+and+Reliable+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=850&color=00BFA6&lines=3%2B+Years+Building+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;AWS+%7C+EKS+%7C+Terraform+%7C+Jenkins+%7C+GitHub+Actions;Docker+%7C+Kubernetes+%7C+Helm+%7C+ArgoCD;Datadog+%7C+CloudWatch+%7C+Prometheus+%7C+Grafana;Building+Scalable+and+Reliable+Systems+%F0%9F%9A%80" />
 
 <div align="center">
 
@@ -28,6 +28,8 @@
 
 </div>
 
+</div>
+
 # ⚡ About Me
 
 ```yaml
@@ -35,7 +37,7 @@ Name: Faizan Mansuri
 
 Role: DevOps Engineer
 
-Company:INTECHFY SOLUTIONS
+Company: INTECHFY SOLUTIONS
 
 Experience: 3+ Years
 
@@ -76,9 +78,9 @@ Philosophy: "Don't just automate deployments — automate confidence."
 ## ☁️ Cloud Services
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ## 🚀 DevOps & CI/CD
@@ -97,7 +99,7 @@ Philosophy: "Don't just automate deployments — automate confidence."
 ## 📊 Monitoring & Observability
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
@@ -119,13 +121,14 @@ Philosophy: "Don't just automate deployments — automate confidence."
 
 # 🚀 Featured Projects
 
-## 🛒 Taskflow 3-Tier Application
+## 🛒 Taskflow — 3-Tier Microservices Platform on AWS EKS
 
 **Tech Stack:** AWS • EKS • Jenkins • Docker • Helm • ArgoCD • CloudWatch
 
 Production-grade 3-tier microservices architecture deployed on AWS EKS with complete CI/CD automation, GitOps workflow, monitoring, and scalable Kubernetes deployments.
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/Taskflow-3-Tier-Application)
+
 ---
 
 ## 🤖 Ollama AI Model Deployment
@@ -135,6 +138,17 @@ Production-grade 3-tier microservices architecture deployed on AWS EKS with comp
 Containerized AI model deployment platform with automated provisioning, monitoring, persistent storage, and infrastructure automation.
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/Ollama-AI-Model-Deployment)
+
+---
+
+## 🏥 Medical ERP Platform on AWS EKS
+
+**Tech Stack:** AWS (EKS, ECR, S3, CloudFront, Route53, ACM, IAM) • Kubernetes • Docker • Jenkins • Terraform • Helm • MongoDB Atlas
+
+Full production deployment of a microservices-based Medical ERP application — Terraform-provisioned infrastructure, Spring Boot microservices on EKS, and a React frontend served via S3 and CloudFront.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/faizanmansuri77/edublitz-b2b-medical-erp)
+
 ---
 
 # 🏆 GitHub Achievements
@@ -182,29 +196,28 @@ Containerized AI model deployment platform with automated provisioning, monitori
 
 # 🌐 Connect With Me
 
-# 🌐 Connect With Me
-
 <div align="center">
 
-🌐 **Portfolio**  
+🌐 **Portfolio**
 https://faizanmansuri77.github.io/faizanmansuri77-portfolio/
 
 <br>
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
 https://www.linkedin.com/in/faizan-mansuri-626a5221b/
 
 <br>
 
-📧 **Email**  
+📧 **Email**
 faizanahmedmansuri@gmail.com
 
 <br>
 
-🐙 **GitHub**  
+🐙 **GitHub**
 https://github.com/faizanmansuri77
 
 </div>
+
 ---
 
 # 💬 DevOps Philosophy
