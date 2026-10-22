@@ -37,8 +37,7 @@ Name: Faizan Mansuri
 
 Role: DevOps Engineer
 
-Company: INTECHFY SOLUTIONS
-
+Company: Web Crypt Technologies
 Experience: 3+ Years
 
 Specialization:
